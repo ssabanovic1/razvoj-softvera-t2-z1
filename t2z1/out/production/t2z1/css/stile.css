@@ -1,0 +1,10 @@
+#sve{
+    -fx-background-color: black;
+}
+#button {
+    -fx-background-color: blue;
+}
+#helloWorld {
+    -fx-background-color: yellow;
+    -fx-font-size: 24 em;
+}
